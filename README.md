@@ -19,6 +19,7 @@ $ npm start
 ## Features
 
   * Bootstrap set as the default UI framework
+  * *Material Design for bootstrap on top*
   * JADE set as the default Template engine
   * Focus on high performance
   * Super-speed development using JADE mixins
