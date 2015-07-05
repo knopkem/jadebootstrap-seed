@@ -1,4 +1,7 @@
-# jadebootstrap-seed
+# jadebootstrap-seed using material design
+
+* Update seed to use the bootstrap-material-design from [[bootstrap-material-design]]
+
 [JADE-Bootstrap](http://rajasegar.github.io/JADE-Bootstrap/) boilerplate project for [NodeJS](http://nodejs.org/) using [Express](http://expressjs.com) middleware
 
 ## Quick Start
